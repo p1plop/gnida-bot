@@ -2,11 +2,11 @@
 ![Docker build](https://github.com/eritislami/evobot/actions/workflows/docker.yml/badge.svg)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
-![logo](https://repository-images.githubusercontent.com/186841818/8aa95700-7730-11e9-84be-e80f28520325)
+![logo](https://i.imgur.com/TIz8xZ7.png)
 
-# 🤖 EvoBot (Discord Music Bot)
+# 🤖 Gnida Bot (evobot fork)
 
-> EvoBot is a Discord Music Bot built with TypeScript, discord.js & uses Command Handler from [discordjs.guide](https://discordjs.guide)
+> Gnida Bot is a Discord Music Bot built with TypeScript, discord.js & uses Command Handler from [discordjs.guide](https://discordjs.guide)
 
 ## Requirements
 
@@ -18,7 +18,7 @@
 
 ```sh
 git clone https://github.com/eritislami/evobot.git
-cd evobot
+cd gnida-bot
 npm install
 ```
 
@@ -123,15 +123,3 @@ Currently available locales are:
 - Turkish (tr)
 - Ukrainian (uk)
 - Vietnamese (vi)
-- Check [Contributing](#-contributing) if you wish to help add more languages!
-- For languages please use [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) two letter format
-
-## 🤝 Contributing
-
-1. [Fork the repository](https://github.com/eritislami/evobot/fork)
-2. Clone your fork: `git clone https://github.com/your-username/evobot.git`
-3. Create your feature branch: `git checkout -b my-new-feature`
-4. Stage changes `git add .`
-5. Commit your changes: `cz` OR `npm run commit` do not use `git commit`
-6. Push to the branch: `git push origin my-new-feature`
-7. Submit a pull request
